@@ -1,0 +1,161 @@
+body { 
+	width: 99%;
+}
+.dp{
+    height: 183px;
+    width: 439px;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    box-shadow: 0px 0px 30px -5px rgba(0, 0, 0, 0.981);
+    margin: 160px 0px 0px 402px;
+}
+#div1{
+    width: 13000px;
+    height: 900px;
+    background-color:  rgba(255, 255, 255, 0.7);
+    position: fixed;
+}
+.warning{
+    height: 80px;
+    width: 100%;
+    font-size: 37px;
+    color: red;
+}
+.warning p{
+    padding-top: 15px;
+    margin-top: 0px;
+}
+.w-img{
+    background-image: url(img/Warning.png);
+    float: left;
+    width: 90px;
+    height: 85px;
+    margin-left: 63px;
+}
+.invisible {
+    display: none;
+  }
+.container{
+	margin: 0px;
+	height: 100%;
+	padding: 20px 30px 0px 30px;
+}
+h2{
+	padding: 10px;
+    text-align: center;
+	color:   white;
+	margin: 10px 0px 0px 0px;
+    padding-bottom: 5px;
+    font-size: 30px;
+	font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; 
+	font-style: bold;
+}
+/* WEB HEAD */
+.card-head{
+    width: 100%;
+    height: 183px;
+    background-color: black;
+    box-shadow: 0px 0px 30px -5px rgba(0, 0, 0, 0.581);
+    padding-top: 10px;
+}
+form{
+    width: 672px;
+    margin: 10px 0px 0px 280px;
+}
+.card-body{
+    height: 300px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 30px -5px rgba(0, 0, 0, 0.581);
+}
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.detail{
+    width: 590px;
+    height: 40px;
+    margin: 0px 0px 5px 27px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.d-left{
+    width: 37%;
+    height: 87%;
+    float: left;
+    padding: 5px 0px 0px 8px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.d-right{
+    width: 60%;
+    float: left;
+    height: 87%;
+    float: left;
+    padding: 5px 0px 0px 8px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.red{
+    color: red;
+}
+.logo{
+    width: 165px;
+    height: 58px;
+    background-color: black;
+    color: white;
+    font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px 0px 0px 33px;
+}
+.imt{
+    color: white;
+    font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 600px;
+    height: 40px;
+    margin: 0px 0px 0px 33px;
+}
+.amount{
+    float: right;
+    margin: 0px 10px 0px 0px;
+}
+.amount p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+
+}
+#submit{
+	font-family: Arial, ‘Helvetica Neue’, Helvetica, sans-serif; 
+    color: white;
+    text-align: center;
+    float: left;
+    background-color: black;
+    text-decoration: none;
+    font-size: 20px;
+	margin: 20px 0px 0px 30px;
+	padding: 10px;
+    border-radius: 5px;
+	border: 2px solid   black;
+	width: 90%;
+}
+#submit:hover{
+    background-color:  #2f323e;
+    box-shadow: 0px 0px 30px -5px rgba(0, 0, 0, 0.581);
+    border: 2px solid   #2f323e;
+}
+#card-num{
+    margin-left: 25px;
+}
+#valid-id{
+    margin-left: 28px;
+}
+#save{
+    margin: 70px 0px 0px 28px;
+}
+.down{
+    margin-top: 50px;
+}
+/* WEB BODY */
+
+/* WEB FOOTER */
